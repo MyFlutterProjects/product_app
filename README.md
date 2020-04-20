@@ -9,7 +9,7 @@
 ### to debug
 -  Dropdown value value changes on modifying but no effect during modifying
 
-** article I followed** 
+**article I followed** 
 - https://medium.com/flutter-community/flutter-firebase-realtime-database-crud-operations-using-provider-c242a01f6a10# product_app
 
 
@@ -18,4 +18,3 @@
 - Add user authentication
 - Map to show stores
 - Online payment
--
